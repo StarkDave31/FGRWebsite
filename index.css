@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(94, 233, 94);
+}
+
+#header{
+    background-color: greenyellow;
+    padding: 10px;
+    border-bottom:3px solid black ;
+}
+.navitem{
+    float: right;
+    display: block;
+    padding: 20px;
+}
+.navelements{
+    text-decoration: none;
+    color: darkgreen;
+    margin-top: 0px;
+    height: 0px;
+    
+}
+
+#Homie{
+    margin: auto;
+    height: fit-content;
+    width: 358px;
+    padding: 100px;
+    border: 1px solid darkgreen;
+    text-align: center;
+    background-image: url(../images/mccoulskykit.jpg);
+    border: 3px solid darkgreen;
+}
+#newsign{
+    text-align: center;
+    color: linen;
+    width: fit-content;
+    padding: 10px;
+    background-color: rgb(14, 151, 14,0.5);
+}
+
+.fixleft{
+    float: left;
+    padding: 100px;
+    background-color: darkgreen;
+    
+}
+.fixright{
+    float: right;
+    padding-right: 200px;
+    
+}
